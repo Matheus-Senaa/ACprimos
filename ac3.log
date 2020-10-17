@@ -18,3 +18,95 @@
 2020-10-16T02:05:18.077225+00:00 heroku[web.1]: State changed from starting to crashed
 2020-10-16T02:05:47.685286+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=acprimosv2.herokuapp.com request_id=35ef3b19-89a5-462c-9e9c-6c254d7e04f0 fwd="186.220.38.123" dyno= connect= service= status=503 bytes= protocol=https
 2020-10-16T02:05:48.175572+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=acprimosv2.herokuapp.com request_id=b2bb911e-ff98-4fc3-a25c-ea6c4b15d86b fwd="186.220.38.123" dyno= connect= service= status=503 bytes= protocol=https
+2020-10-16T02:04:23.667491+00:00 app[api]: Initial release by user itzsena16@gmail.com
+2020-10-16T02:04:23.667491+00:00 app[api]: Release v1 created by user itzsena16@gmail.com
+2020-10-16T02:04:23.789047+00:00 app[api]: Enable Logplex by user itzsena16@gmail.com
+2020-10-16T02:04:23.789047+00:00 app[api]: Release v2 created by user itzsena16@gmail.com
+2020-10-16T02:04:39.000000+00:00 app[api]: Build started by user itzsena16@gmail.com
+2020-10-16T02:05:03.223280+00:00 app[api]: Release v3 created by user itzsena16@gmail.com
+2020-10-16T02:05:03.223280+00:00 app[api]: Deploy 3cf7714a by user itzsena16@gmail.com
+2020-10-16T02:05:03.236090+00:00 app[api]: Scaled to web@1:Free by user itzsena16@gmail.com
+2020-10-16T02:05:06.858726+00:00 heroku[web.1]: Starting process with command `python msg.py`
+2020-10-16T02:05:10.042954+00:00 app[web.1]: python: can't open file 'msg.py': [Errno 2] No such file or directory
+2020-10-16T02:05:10.095842+00:00 heroku[web.1]: Process exited with status 2
+2020-10-16T02:05:10.138847+00:00 heroku[web.1]: State changed from starting to crashed
+2020-10-16T02:05:10.141458+00:00 heroku[web.1]: State changed from crashed to starting
+2020-10-16T02:05:12.000000+00:00 app[api]: Build succeeded
+2020-10-16T02:05:14.858609+00:00 heroku[web.1]: Starting process with command `python msg.py`
+2020-10-16T02:05:17.986668+00:00 app[web.1]: python: can't open file 'msg.py': [Errno 2] No such file or directory
+2020-10-16T02:05:18.038355+00:00 heroku[web.1]: Process exited with status 2
+2020-10-16T02:05:18.077225+00:00 heroku[web.1]: State changed from starting to crashed
+2020-10-16T02:05:47.685286+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=acprimosv2.herokuapp.com request_id=35ef3b19-89a5-462c-9e9c-6c254d7e04f0 fwd="186.220.38.123" dyno= connect= service= status=503 bytes= protocol=https
+2020-10-16T02:05:48.175572+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=acprimosv2.herokuapp.com request_id=b2bb911e-ff98-4fc3-a25c-ea6c4b15d86b fwd="186.220.38.123" dyno= connect= service= status=503 bytes= protocol=https
+2020-10-16T02:07:11.934404+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=acprimosv2.herokuapp.com request_id=c4a01582-d779-4f84-9c4e-e29a50a40f59 fwd="186.220.38.123" dyno= connect= service= status=503 bytes= protocol=https
+2020-10-16T02:07:12.409866+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=acprimosv2.herokuapp.com request_id=437d7d1b-9303-4f29-9426-89c1b36bcb24 fwd="186.220.38.123" dyno= connect= service= status=503 bytes= protocol=https
+2020-10-16T02:27:46.189441+00:00 heroku[web.1]: State changed from crashed to starting
+2020-10-16T02:27:49.018392+00:00 heroku[web.1]: Starting process with command `python msg.py`
+2020-10-16T02:27:55.736231+00:00 app[web.1]: python: can't open file 'msg.py': [Errno 2] No such file or directory
+2020-10-16T02:27:55.777806+00:00 heroku[web.1]: Process exited with status 2
+2020-10-16T02:27:55.832160+00:00 heroku[web.1]: State changed from starting to crashed
+2020-10-16T03:10:47.893852+00:00 heroku[web.1]: State changed from crashed to starting
+2020-10-16T03:10:50.959742+00:00 heroku[web.1]: Starting process with command `python msg.py`
+2020-10-16T03:10:52.882876+00:00 app[web.1]: python: can't open file 'msg.py': [Errno 2] No such file or directory
+2020-10-16T03:10:52.943815+00:00 heroku[web.1]: Process exited with status 2
+2020-10-16T03:10:52.997766+00:00 heroku[web.1]: State changed from starting to crashed
+2020-10-16T04:41:19.165941+00:00 heroku[web.1]: State changed from crashed to starting
+2020-10-16T04:41:22.136594+00:00 heroku[web.1]: Starting process with command `python msg.py`
+2020-10-16T04:41:23.964865+00:00 app[web.1]: python: can't open file 'msg.py': [Errno 2] No such file or directory
+2020-10-16T04:41:24.032343+00:00 heroku[web.1]: Process exited with status 2
+2020-10-16T04:41:24.063046+00:00 heroku[web.1]: State changed from starting to crashed
+2020-10-16T07:42:42.726680+00:00 heroku[web.1]: State changed from crashed to starting
+2020-10-16T07:42:45.876740+00:00 heroku[web.1]: Starting process with command `python msg.py`
+2020-10-16T07:42:47.983921+00:00 app[web.1]: python: can't open file 'msg.py': [Errno 2] No such file or directory
+2020-10-16T07:42:48.038633+00:00 heroku[web.1]: Process exited with status 2
+2020-10-16T07:42:48.079433+00:00 heroku[web.1]: State changed from starting to crashed
+2020-10-16T13:22:55.491594+00:00 heroku[web.1]: State changed from crashed to starting
+2020-10-16T13:22:58.669031+00:00 heroku[web.1]: Starting process with command `python msg.py`
+2020-10-16T13:23:00.767031+00:00 app[web.1]: python: can't open file 'msg.py': [Errno 2] No such file or directory
+2020-10-16T13:23:00.820483+00:00 heroku[web.1]: Process exited with status 2
+2020-10-16T13:23:00.865899+00:00 heroku[web.1]: State changed from starting to crashed
+2020-10-16T19:23:19.106167+00:00 heroku[web.1]: State changed from crashed to starting
+2020-10-16T19:23:22.483752+00:00 heroku[web.1]: Starting process with command `python msg.py`
+2020-10-16T19:23:24.657643+00:00 app[web.1]: python: can't open file 'msg.py': [Errno 2] No such file or directory
+2020-10-16T19:23:24.712327+00:00 heroku[web.1]: Process exited with status 2
+2020-10-16T19:23:24.766775+00:00 heroku[web.1]: State changed from starting to crashed
+2020-10-17T00:03:09.828006+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=acprimosv2.herokuapp.com request_id=84a6d8c3-c4ee-40ec-a733-a54775a262f4 fwd="200.49.54.234" dyno= connect= service= status=503 bytes= protocol=https
+2020-10-17T00:03:10.445771+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=acprimosv2.herokuapp.com request_id=3d5126ed-50b2-40eb-984e-f546978ba65a fwd="200.49.54.234" dyno= connect= service= status=503 bytes= protocol=https
+2020-10-17T00:59:43.499500+00:00 heroku[web.1]: State changed from crashed to starting
+2020-10-17T00:59:46.208811+00:00 heroku[web.1]: Starting process with command `python msg.py`
+2020-10-17T00:59:47.946490+00:00 app[web.1]: python: can't open file 'msg.py': [Errno 2] No such file or directory
+2020-10-17T00:59:47.981715+00:00 heroku[web.1]: Process exited with status 2
+2020-10-17T00:59:48.018765+00:00 heroku[web.1]: State changed from starting to crashed
+2020-10-17T06:36:06.390323+00:00 heroku[web.1]: State changed from crashed to starting
+2020-10-17T06:36:09.777623+00:00 heroku[web.1]: Starting process with command `python msg.py`
+2020-10-17T06:36:12.126271+00:00 app[web.1]: python: can't open file 'msg.py': [Errno 2] No such file or directory
+2020-10-17T06:36:12.204059+00:00 heroku[web.1]: Process exited with status 2
+2020-10-17T06:36:12.268454+00:00 heroku[web.1]: State changed from starting to crashed
+2020-10-17T12:20:52.260641+00:00 heroku[web.1]: State changed from crashed to starting
+2020-10-17T12:20:55.621298+00:00 heroku[web.1]: Starting process with command `python msg.py`
+2020-10-17T12:20:57.856849+00:00 app[web.1]: python: can't open file 'msg.py': [Errno 2] No such file or directory
+2020-10-17T12:20:57.904693+00:00 heroku[web.1]: Process exited with status 2
+2020-10-17T12:20:57.950465+00:00 heroku[web.1]: State changed from starting to crashed
+2020-10-17T17:02:46.576641+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=acprimosv2.herokuapp.com request_id=ccb07445-6a5a-4bf1-9752-8ef774f257fc fwd="186.220.38.123" dyno= connect= service= status=503 bytes= protocol=https
+2020-10-17T17:02:48.215947+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=acprimosv2.herokuapp.com request_id=b1850d30-5287-4302-bcd8-1087c0fb9d51 fwd="186.220.38.123" dyno= connect= service= status=503 bytes= protocol=https
+2020-10-17T17:08:36.000000+00:00 app[api]: Build started by user itzsena16@gmail.com
+2020-10-17T17:09:08.483294+00:00 app[api]: Deploy b4104b64 by user itzsena16@gmail.com
+2020-10-17T17:09:08.483294+00:00 app[api]: Release v4 created by user itzsena16@gmail.com
+2020-10-17T17:09:08.937662+00:00 heroku[web.1]: State changed from crashed to starting
+2020-10-17T17:09:12.456991+00:00 heroku[web.1]: Starting process with command `python t9.py`
+2020-10-17T17:09:15.506051+00:00 app[web.1]: * Serving Flask app "t9" (lazy loading)
+2020-10-17T17:09:15.506161+00:00 app[web.1]: * Environment: production
+2020-10-17T17:09:15.506254+00:00 app[web.1]: WARNING: Do not use the development server in a production environment.
+2020-10-17T17:09:15.506335+00:00 app[web.1]: Use a production WSGI server instead.
+2020-10-17T17:09:15.506404+00:00 app[web.1]: * Debug mode: off
+2020-10-17T17:09:15.539414+00:00 app[web.1]: * Running on http://0.0.0.0:35293/ (Press CTRL+C to quit)
+2020-10-17T17:09:15.887190+00:00 heroku[web.1]: State changed from starting to up
+2020-10-17T17:09:17.000000+00:00 app[api]: Build succeeded
+2020-10-17T17:10:33.238057+00:00 app[web.1]: 10.47.227.158 - - [17/Oct/2020 17:10:33] "GET / HTTP/1.1" 200 -
+2020-10-17T17:10:33.238721+00:00 heroku[router]: at=info method=GET path="/" host=acprimosv2.herokuapp.com request_id=d74a08ae-a9e1-49f4-b05c-c1cf7779b455 fwd="186.220.38.123" dyno=web.1 connect=0ms service=4ms status=200 bytes=567 protocol=https
+2020-10-17T17:10:33.494529+00:00 app[web.1]: 10.47.227.158 - - [17/Oct/2020 17:10:33] "GET /favicon.ico HTTP/1.1" 404 -
+2020-10-17T17:10:33.495856+00:00 heroku[router]: at=info method=GET path="/favicon.ico" host=acprimosv2.herokuapp.com request_id=325a37fd-595a-4709-85a8-55334a3e05da fwd="186.220.38.123" dyno=web.1 connect=0ms service=16ms status=404 bytes=379 protocol=https
+2020-10-17T17:11:14.463582+00:00 app[web.1]: 10.47.227.158 - - [17/Oct/2020 17:11:14] "GET / HTTP/1.1" 200 -
+2020-10-17T17:11:14.464357+00:00 heroku[router]: at=info method=GET path="/" host=acprimosv2.herokuapp.com request_id=084e75c9-e17b-40ba-b4f9-7d53c3ff505f fwd="186.220.38.123" dyno=web.1 connect=0ms service=4ms status=200 bytes=567 protocol=https
+2020-10-17T17:12:23.451531+00:00 app[web.1]: 10.29.25.131 - - [17/Oct/2020 17:12:23] "GET / HTTP/1.1" 200 -
+2020-10-17T17:12:23.453066+00:00 heroku[router]: at=info method=GET path="/" host=acprimosv2.herokuapp.com request_id=7bf7ab91-3081-4232-9c66-626d1d49b10d fwd="186.220.38.123" dyno=web.1 connect=0ms service=4ms status=200 bytes=567 protocol=https
